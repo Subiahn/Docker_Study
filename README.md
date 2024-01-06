@@ -6,4 +6,5 @@ Docker container Study File
 shell : powershell 사용
 
 기본 Container OS : Alpine Linux
+                    Windows nano
 
